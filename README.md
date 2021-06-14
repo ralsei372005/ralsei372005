@@ -1,13 +1,23 @@
-- 👋 Hi, I’m @ralsei372005
-- 👀 I’m interested in
+👋 Hi, I’m @ralsei372005
+
+👀 I’m interested in
+
 Discord Bot
+
 Pygame Games
-- 🌱 I’m currently learning
+
+🌱 I’m currently learning
+
 c++ C Plus Plus
+
 js JavaScript
+
 py Python
+
 <!---- 💞️ I’m looking to collaborate on ...--->
-- 📫 How to reach me
+
+📫 How to reach me
+
 discord@ralsei372005#2195
 
 <!---
